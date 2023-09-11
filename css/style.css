@@ -69,7 +69,7 @@ body {
   transform: scale(0.95); }
 
 .background-image {
-  background-image: url("img/back_1.png");
+  background-image: url("img/back_1.svg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center bottom;
@@ -80,7 +80,7 @@ body {
   left: 0; }
 
 .background-image-2 {
-  background-image: url("img/back_2.png");
+  background-image: url("img/back_2.svg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center bottom;
